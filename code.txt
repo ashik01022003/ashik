@@ -1,4 +1,7 @@
-version 1
+version 2
 
 def multiplication(m,n):
   return m*n
+
+def division(x,y):
+  return x/y
